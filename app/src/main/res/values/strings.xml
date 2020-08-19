@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraAndroid</string>
+    <string name="digite_dois_n_meros">Calculadora 1.0</string>
+    <string name="resultado"></string>
+    <string name="subtra_o">-</string>
+    <string name="divis_o">/</string>
+    <string name="multiplica_o">*</string>
+    <string name="soma">+</string>
+    <string name="textview">Resultado: </string>
+</resources>
